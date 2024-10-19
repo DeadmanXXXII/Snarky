@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tor Tumbler</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Anonymous Crypto Tumbler</h1>
+    <h2>Transfer any cryptocurrency to any wallet.</h2>
+    <h2>We use socks to send everything through the Tor network.</h2>
+    <h2>!! If you lose your snark proofs we can't get your money back.</h2>
+    
+    <div>
+        <h2>Deposit</h2>
+        <input type="text" id="fromAddress" placeholder="From Wallet Address" required>
+        <input type="text" id="depositAmount" placeholder="Amount (ETH)" required>
+        <button onclick="deposit()">Deposit</button>
+    </div>
+
+    <div>
+        <h2>Withdraw</h2>
+        <input type="text" id="toAddress" placeholder="To Wallet Address" required>
+        <input type="text" id="withdrawAmount" placeholder="Amount (ETH)" required>
+        <button onclick="withdraw()">Withdraw</button>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

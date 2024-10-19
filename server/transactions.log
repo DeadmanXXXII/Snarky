@@ -1,0 +1,12 @@
+2024-10-19T20:05:11.617Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:32:49.991Z - Deposit - User: 0x66099d8E44dF9a95faf6F72F79E835048798B34E, Amount: 1, Status: Failed: Returned error: unknown account
+2024-10-19T20:34:36.287Z - Deposit - User: 0x66099d8E44dF9a95faf6F72F79E835048798B34E, Amount: 1, Status: Failed: Returned error: unknown account
+2024-10-19T20:39:17.067Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:40:07.780Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:42:57.936Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:45:09.738Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:46:22.774Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:47:18.654Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:48:55.100Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:50:48.722Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
+2024-10-19T20:51:05.031Z - Deposit - User: undefined, Amount: 100, Status: Failed: Contract "from" address not specified
