@@ -1,6 +1,8 @@
 # Snarky
 Crypto tumbler
 
+!!!! This has changed massively since this please check all code files.
+
 To get the crypto tumbler project up and running in a production-ready environment, we will take a systematic approach, from zk-SNARK implementation, frontend, backend (smart contracts), to testing and deployment. Below is a full guide with scripts and configurations required for this.
 
 1. Backend - Smart Contracts with zk-SNARKs
