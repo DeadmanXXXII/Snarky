@@ -399,4 +399,6 @@ Yes, users can use CLI-based wallets to interact with your crypto tumbler by sen
 Issues:
 Have you actually set up snarky and tor tumbler, ran them simultaneously and then intercepted communications, smart contracts or signer keys. As much as a common issue in elliptic curves is there can you actually reproduce the attack and become an authorised signer. Or is this just another theoretical vulnerability to something I have designed that in practicality doesnt work.
 
+Screenshot_20250217-113930.png
 
+https://github.com/DeadmanXXXII/Snarky/security/dependabot/dismiss-many
